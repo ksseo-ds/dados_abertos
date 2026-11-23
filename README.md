@@ -147,7 +147,7 @@ Este é um projeto independente, sem vínculo com a Receita Federal. O uso dos d
 
 ## Limitações e melhorias futuras
 
-- Incluir scripts DDL e instruções para inicialização do PostgreSQL.
+- Incluir script e instruções para inicialização do PostgreSQL.
 - Criar testes automatizados para consulta, fila, download e importação.
 - Permitir definir a competência pela linha de comando ou por variável de ambiente.
 - Aprimorar o tratamento de falhas entre download, importação e limpeza de arquivos.
@@ -155,7 +155,7 @@ Este é um projeto independente, sem vínculo com a Receita Federal. O uso dos d
 
 ## Autor
 
-Desenvolvido por [ksseo-ds](https://github.com/ksseo-ds).
+Desenvolvido por Cássio Farias [ksseo-ds](https://github.com/ksseo-ds).
 
 ## Licença
 
