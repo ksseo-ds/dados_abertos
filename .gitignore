@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Variáveis de ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Dados baixados
+downloads/
+*.zip
+*.csv
+
+# IDE
+.vscode/
